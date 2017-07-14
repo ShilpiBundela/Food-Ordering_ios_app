@@ -1,0 +1,25 @@
+{
+  "name": "nodemail",
+  "version": "1.0.0",
+  "description": "a simple node mail service for smartphone",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "./node_modules/.bin/nodemon app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mail",
+    "express"
+  ],
+  "author": "Bundela, Shilpi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "nodemailer": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}

@@ -1,0 +1,72 @@
+{
+    "homecooks": [{
+                  "id": "1",
+                  "name": "Danny",
+                  "email": "Danny@gmail.com",
+                  "Location": "Nashua, NH",
+                  "Rating": "4",
+                  "Menu_Item": [{
+                                "id": "Item1",
+                                "name": "Pizza",
+                                "Cost": "7",
+                                "Cusine": "Italian"
+                                }, {
+                                "id": "Item2",
+                                "name": "Pasta",
+                                "Cost": "9",
+                                "Cusine": "Italian"
+                                }, {
+                                "id": "Item3",
+                                "name": "Taco",
+                                "Cost": "9",
+                                "Cusine": "Mexican"
+                                }]
+                  
+                  }, {
+                  "id": "2",
+                  "name": "Dan",
+                  "email": "Dan@gmail.com",
+                  "Location": "Boston, MA",
+                  "Rating": "2",
+                  "Menu_Item": [{
+                                "id": "Item1",
+                                "name": "MAc and Cheese",
+                                "Cost": "7",
+                                "Cusine": "American"
+                                }, {
+                                "id": "Item2",
+                                "name": "Stake",
+                                "Cost": "9",
+                                "Cusine": "American"
+                                }, {
+                                "id": "Item3",
+                                "name": "Noodles",
+                                "Cost": "9",
+                                "Cusine": "Indian"
+                                }]
+                  
+                  }, {
+                  "id": "3",
+                  "name": "Das",
+                  "email": "Das@gmail.com",
+                  "Location": "Seattle, WA",
+                  "Rating": "4",
+                  "Menu_Item": [{
+                                "id": "Item1",
+                                "name": "Paneer",
+                                "Cost": "7",
+                                "Cusine": "Indian"
+                                }, {
+                                "id": "Item2",
+                                "name": "Dosa",
+                                "Cost": "9",
+                                "Cusine": "Indian"
+                                }, {
+                                "id": "Item3",
+                                "name": "Shwarama",
+                                "Cost": "9",
+                                "Cusine": "Indian"
+                                }]
+                  
+                  }]
+}
